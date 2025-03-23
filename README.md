@@ -1,5 +1,8 @@
 # FocusBuddy
 
+![Image](https://github.com/user-attachments/assets/c184ca02-ba74-4c9e-895d-3e50cbdcac0a)
+
+
 FocusBuddy is a productivity timer application that helps users focus on tasks by setting timers for specific periods. The application provides a clean and minimal interface, allowing users to track their time efficiently.
 
 ## Features
@@ -44,6 +47,4 @@ FocusBuddy is provided as free software for personal use only. You may not distr
 Developed by Ahmad Noori  
 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/)
 
-
-![Image](https://github.com/user-attachments/assets/c184ca02-ba74-4c9e-895d-3e50cbdcac0a)
 
