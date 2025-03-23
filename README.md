@@ -43,3 +43,6 @@ FocusBuddy is provided as free software for personal use only. You may not distr
 
 Developed by Ahmad Noori  
 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/)
+
+
+https://github.com/Ahmadn1103/FocusBuddy/issues/1#issuecomment-2746484467
