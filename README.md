@@ -45,4 +45,5 @@ Developed by Ahmad Noori
 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/)
 
 
-https://github.com/Ahmadn1103/FocusBuddy/issues/1#issuecomment-2746484467
+![Image](https://github.com/user-attachments/assets/c184ca02-ba74-4c9e-895d-3e50cbdcac0a)
+
