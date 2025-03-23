@@ -1,39 +1,45 @@
-FocusBuddy is a simple yet powerful productivity timer application designed to help you stay focused and productive. The app allows users to set customizable timer lengths, track their work intervals, and keep their productivity on track with a clean and intuitive interface.
+# FocusBuddy
 
-Key Features:
+FocusBuddy is a productivity timer application that helps users focus on tasks by setting timers for specific periods. The application provides a clean and minimal interface, allowing users to track their time efficiently.
 
-Set and manage timer lengths (5, 10, 15, 20, 25, 30 minutes)
+## Features
 
-Start, pause, and reset the timer easily
+- Simple and intuitive timer interface.
+- Custom timer length options (e.g., 5, 10, 15, 20 minutes).
+- Start, pause, and reset timer functionality.
+- Clean design created with Figma.
+- Uses Inno Setup to package the application as an EXE file for Windows.
+- Custom ICO logo created using GIMP.
+- Easy access to my [LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/) through a BAT file.
 
-Customizable layout and design with an easy-to-use interface
+## Technologies Used
 
-Desktop shortcut creation for quick access
+- **Python**: Main language for development.
+- **CustomTkinter**: Used for creating the user interface (GUI).
+- **Figma**: Designed the user interface.
+- **GIMP**: Created the ICO logo.
+- **Inno Setup**: Used to convert the Python app to an EXE file.
+- **BAT file**: Opens the LinkedIn profile directly.
 
-Integrated with a LinkedIn profile for easy connection to the developer
+## Installation
 
-Technologies Used:
+1. Download the `FocusBuddy.exe` file from the releases section.
+2. Run the installer and follow the on-screen instructions.
+3. Optionally, a desktop shortcut will be created.
 
-Python: The core programming language used to build the app.
+## How to Use
 
-CustomTkinter: For creating the graphical user interface (GUI).
+1. Select a timer length from the available options or set a custom timer.
+2. Click the **Start** button to begin the countdown.
+3. Click **Pause** to pause the timer at any time.
+4. Use the **Reset** button to reset the timer back to 00:00.
+5. For support and updates, visit my [LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/).
 
-Figma: Used for designing the user interface layout.
+## License
 
-Inno Setup: To convert the Python application into an executable (EXE) file for easy distribution and installation.
+FocusBuddy is provided as free software for personal use only. You may not distribute the software without permission. The software is provided "as-is", without any warranty.
 
-GIMP: For designing the application icon (ICO) used in the setup.
+---
 
-PyInstaller: To package the Python application into a standalone EXE file.
-
-Batch File: For easy access to my LinkedIn profile.
-
-LinkedIn: Showcased professional details and contact information.
-
-Installation Instructions:
-
-Download the FocusBuddy.exe file from the releases section.
-
-Run the installer to install the app on your system.
-
-Use the app to start managing your productive work sessions!
+Developed by Ahmad Noori  
+[LinkedIn Profile](https://www.linkedin.com/in/ahmad-noori1103/)
